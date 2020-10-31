@@ -12,3 +12,6 @@
 * rosemary
 * halved cherry tomatoes
 
+## Baking
+
+Bake at 180°C for 35-40 minutes until golden brown.
