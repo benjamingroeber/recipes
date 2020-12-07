@@ -7,9 +7,7 @@
 * 20g sugar
 * 1   block of fresh yeast (24g)
 
-### Stats
-* Total flour weight = 750g
-* Hydration: 74%
+Hydration: 74%
 
 ## Preparation
 After mixing, leave the dough to rise, until about doubling the volume (~ 2hours).
