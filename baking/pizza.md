@@ -12,9 +12,6 @@ Hydration: 74%
 ## Preparation
 Combine wet and dry ingredients until all of the flour is well hydrated, then mix for 8 minutes until
 you get a satisfying window pane. Otherwise mix 2 more minutes and repeat if necessary.
-
-![Mixed Dough](https://www.benjamingroeber.com/static/img/recipes/pizza/001_mixed_dough.jpg "Mixed Dough")
-
 After mixing, leave the dough to rise in an big oiled bowl, until the volume roughly doubles (~ 2hours).
 
 ![Risen Dough](https://www.benjamingroeber.com/static/img/recipes/pizza/002_risen_dough.jpg "Risen Dough")
